@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tushar-ydv01/LeetCode/tree/master/0009-palindrome-number) |
+| [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 ## String
 |  |
@@ -44,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
@@ -62,4 +65,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar-ydv01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
