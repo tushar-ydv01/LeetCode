@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tushar-ydv01/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tushar-ydv01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
