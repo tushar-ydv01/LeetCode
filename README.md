@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tushar-ydv01/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar-ydv01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tushar-ydv01/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar-ydv01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar-ydv01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0464-can-i-win](https://github.com/tushar-ydv01/LeetCode/tree/master/0464-can-i-win) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/tushar-ydv01/LeetCode/tree/master/1927-sum-game) |
 ## Design
 |  |
