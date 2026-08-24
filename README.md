@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tushar-ydv01/LeetCode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/tushar-ydv01/LeetCode/tree/master/0464-can-i-win) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/tushar-ydv01/LeetCode/tree/master/1927-sum-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tushar-ydv01/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar-ydv01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0464-can-i-win](https://github.com/tushar-ydv01/LeetCode/tree/master/0464-can-i-win) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
+| [0464-can-i-win](https://github.com/tushar-ydv01/LeetCode/tree/master/0464-can-i-win) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/tushar-ydv01/LeetCode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
@@ -102,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tushar-ydv01/LeetCode/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/tushar-ydv01/LeetCode/tree/master/0464-can-i-win) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/tushar-ydv01/LeetCode/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/tushar-ydv01/LeetCode/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
