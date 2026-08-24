@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tushar-ydv01/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/tushar-ydv01/LeetCode/tree/master/0155-min-stack) |
 | [0946-validate-stack-sequences](https://github.com/tushar-ydv01/LeetCode/tree/master/0946-validate-stack-sequences) |
 ## Bracket Sequences
 |  |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/tushar-ydv01/LeetCode/tree/master/1927-sum-game) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tushar-ydv01/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
