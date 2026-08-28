@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tushar-ydv01/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tushar-ydv01/LeetCode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
 | [0464-can-i-win](https://github.com/tushar-ydv01/LeetCode/tree/master/0464-can-i-win) |
