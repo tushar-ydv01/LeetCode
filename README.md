@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tushar-ydv01/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/tushar-ydv01/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/tushar-ydv01/LeetCode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0292-nim-game) |
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/tushar-ydv01/LeetCode/tree/master/0796-rotate-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tushar-ydv01/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/tushar-ydv01/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
