@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tushar-ydv01/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tushar-ydv01/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar-ydv01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/tushar-ydv01/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/tushar-ydv01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/tushar-ydv01/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -109,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tushar-ydv01/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tushar-ydv01/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/tushar-ydv01/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tushar-ydv01/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tushar-ydv01/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/tushar-ydv01/LeetCode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tushar-ydv01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
@@ -162,4 +165,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tushar-ydv01/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tushar-ydv01/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tushar-ydv01/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tushar-ydv01/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
