@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/tushar-ydv01/LeetCode/tree/master/1927-sum-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/tushar-ydv01/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/tushar-ydv01/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tushar-ydv01/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tushar-ydv01/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/tushar-ydv01/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tushar-ydv01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/tushar-ydv01/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Simulation
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/tushar-ydv01/LeetCode/tree/master/0464-can-i-win) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/tushar-ydv01/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Memoization
 |  |
 | ------- |
