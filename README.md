@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tushar-ydv01/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tushar-ydv01/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tushar-ydv01/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tushar-ydv01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/tushar-ydv01/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0877-stone-game](https://github.com/tushar-ydv01/LeetCode/tree/master/0877-stone-game) |
 | [0946-validate-stack-sequences](https://github.com/tushar-ydv01/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tushar-ydv01/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tushar-ydv01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tushar-ydv01/LeetCode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/tushar-ydv01/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Sorting
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tushar-ydv01/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tushar-ydv01/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/tushar-ydv01/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tushar-ydv01/LeetCode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tushar-ydv01/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
